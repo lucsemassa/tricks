@@ -1,4 +1,4 @@
-#Tricks 
+# Tricks 
 
 ## Windows 
 
