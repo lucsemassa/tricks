@@ -21,3 +21,4 @@ IsWritable("C:\Users\Administrator")
 
 IsWritable("full_path_to_my_file")
 ```
+The return value is either a True (is the file/dir is writable) or a False (is the file/dir is not writable)
